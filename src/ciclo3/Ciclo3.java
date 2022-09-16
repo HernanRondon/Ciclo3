@@ -20,6 +20,11 @@ public class Ciclo3 {
         int y = 6;
         int suma = x + y;
         System.out.println("El resultado de la suma es: " + suma);
+        
+        int q = 568;
+        int w = 456;
+        int e = q + w;
+        System.out.println("Estos son " + e + "numeros");
     }
     
 }
